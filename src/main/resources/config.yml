@@ -1,0 +1,11 @@
+vierkantAan.off: true
+driehoekAan.off: false
+Vierkantgrond:
+  x: 0
+  y: 0
+  z: 0
+
+Vierkanttop:
+  x: 0
+  y: 0
+  z: 0
