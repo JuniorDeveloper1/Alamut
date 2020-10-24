@@ -1,0 +1,11 @@
+  name: AlamutEvent
+  main: me.JuniorDeveloper.main
+  version: 1
+
+  commands:
+      startVierkant:
+        usage: /<command>
+        aliases:
+          - startVierkant
+          - vierkant
+        description: Teleport players into a vierkant

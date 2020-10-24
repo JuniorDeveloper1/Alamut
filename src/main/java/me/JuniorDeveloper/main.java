@@ -41,7 +41,6 @@ public class main extends JavaPlugin {
     public void vierkantRegion() {
         if(vierkantAan == true) {
             vier = new vierkant(
-
                     new Location(Bukkit.getWorld("world"), grondX, grondY, grondZ),
                     new Location(Bukkit.getWorld("world"), topX, topY, topZ));
         }
